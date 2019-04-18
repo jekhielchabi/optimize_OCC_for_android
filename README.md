@@ -11,5 +11,5 @@ You guys can read this library easily by access two file in the folder "jni".
 3. To understand this source code and extend or modify it, you need to learn some thing about multi
 thread in android java and some type of image data format. 
 
-Good lụck! I will try to update my application to help anyone who want to develop some thing like this easily. 
+Good luck! I will try to update my application to help anyone who want to develop some thing like this easily. 
 
