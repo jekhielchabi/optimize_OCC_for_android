@@ -1,4 +1,4 @@
-Hi guys!
+Update:Because Android Studio stop supporting for this kind of native C++ third party dependency. Therefore, I fixed my source code to run with the c++ support from the Google. Please take a look on the project: 
 We need to set up some things to make sure you can build this source code:
 1. You need to make sure: you guys already have installed all the sdk tool: 
 - NDK
